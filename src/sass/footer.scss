@@ -1,0 +1,16 @@
+.footer-block{background:grey}
+    .footer-list{display:flex;justify-content:space-between; margin:0; padding:20px; list-style:none;}
+        .footer-list--item{width:31.333%;}
+        .footer-list--item--title{}
+        .footer-list--item--text{}
+.form__row{margin-bottom:20px; }
+    .form__input{border-radius:6px; background:#ececec; padding:6px;}
+    .btn-sing{ border-radius:6px; background:#ececec; padding:6px;color: red;}
+a{color:#333;text-decoration:none;}
+.social-icon--item--title{}
+
+.social-icons{display:inline-block; width:100%;}
+    .social-icons .fab, .social-icons .fas{font-size:24px}
+    .social-icons--item{display:inline-block; width:50%;float: left; margin-bottom:10px}
+.text-red{color: red}
+.copyright{background-color: rgb(205,205,205);display:flex;justify-content:space-between; margin:0; padding:20px; list-style:none;}        
